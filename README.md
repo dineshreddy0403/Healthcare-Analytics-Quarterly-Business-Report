@@ -1,2 +1,3 @@
-# Healthcare-Analytics-Business-Report
-I developed a comprehensive project in Excel, created multiple dashboards and tables to analyse the data. This process involved several stages, including data preprocessing, data cleaning and data visualization.
+# Healthcare-Analytics-Quarterly-Business-Report
+## Project Objective
+The objective of this dashboard is to analyze and visualize key healthcare business metrics for the year 2023 across all four quarters. The focus is to help stakeholders identify patterns in patient services, financials, and operational efficiency to make data-driven decisions for improving healthcare delivery.
